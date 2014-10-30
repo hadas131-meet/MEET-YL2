@@ -5,3 +5,7 @@ body {
 h1 {
 	border: 5px inset black; border-radius: 5px;
 }
+
+.inlinepicture {
+	display: inline-block;
+}

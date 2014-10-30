@@ -1,0 +1,7 @@
+body {
+	background-color: rgb(204,153,255);
+}
+
+h1 {
+	border: 5px inset black; border-radius: 5px;
+}

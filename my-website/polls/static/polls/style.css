@@ -1,0 +1,24 @@
+#header {
+	text-align: center;
+}
+
+#hello_message {
+	color: purple; font-family: "Tahoma"
+}
+
+#content {
+	text-align: center;
+	width: 40%;
+	margin: auto;
+
+	/* add a nice frame for your content */
+	
+}
+
+#footer {
+	text-align: center;
+}
+
+
+#background { background-image: url("http://www.hdwallpapersinn.com/wp-content/uploads/2014/08/Beautiful-Scenery.jpg"); }
+
